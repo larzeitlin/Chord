@@ -6,4 +6,6 @@ Chord uses a musically logical digramatic interface to help the user understand 
 This stand-alone tool can send MIDI messages to DAWs like Logic and Ableton Live, to write MIDI directly. This works around the restriction that MIDI AU and VST plug-ins have of not being able to write MIDI to the session in real time. 
 
 
+Download here: https://www.dropbox.com/s/9zfj8dkrkkgvd0k/Chord.dmg?dl=0
+
 
