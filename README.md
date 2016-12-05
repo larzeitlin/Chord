@@ -8,4 +8,5 @@ This stand-alone tool can send MIDI messages to DAWs like Logic and Ableton Live
 
 Download here: https://www.dropbox.com/s/9zfj8dkrkkgvd0k/Chord.dmg?dl=0
 
+Video explaining the project here: https://www.youtube.com/watch?v=XqzMBZ68jiY
 
