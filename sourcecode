@@ -19,6 +19,7 @@ def setup():
     
     size(700, 700)
     frameRate(30)
+    pixelDensity(displayDensity())
     background(0)
     global myBus
     myBus = MidiBus(this, -1, "Bus 1")
