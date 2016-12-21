@@ -1,5 +1,5 @@
 # Chord
-Stand-alone MIDI tool with circle of fifths interface made in python mode, Processing.
+Stand-alone MIDI tool with circle of fifths interface made in python mode, Processing. It is for Mac OSX.
 
 Chord uses a musically logical digramatic interface to help the user understand the patterns and shapes involved with harmony and chords in western music.
 
