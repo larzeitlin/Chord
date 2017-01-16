@@ -45,7 +45,7 @@ def mainConstruct():
         lineBig(rad)
     for l in range(12):
         rad = l*30
-        lineSmall(rad)
+        lineSmall(rad)                          # N.B. These can't all go in one loop becase they are drawn to the screen in layers
     for l in range(12):
         rad = l*30
         circlesbig(rad)
