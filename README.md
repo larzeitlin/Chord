@@ -10,5 +10,5 @@ Download here: https://www.dropbox.com/s/9zfj8dkrkkgvd0k/Chord.dmg?dl=0
 
 Video explaining the project here: https://www.youtube.com/watch?v=XqzMBZ68jiY
 
-![alt tag](https://github.com/larzeitlin/Chord/blob/master/circle%20of%20fifths2.jpg?raw=true)
+![alt tag](https://github.com/larzeitlin/Chord/blob/master/sc%20-%20chord%202.png?raw=true)
 
